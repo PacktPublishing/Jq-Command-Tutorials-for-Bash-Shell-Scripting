@@ -1,0 +1,13 @@
+{
+  "name": "Buster",
+  "breed": "Golden Retriever",
+  "age": "4",
+  "owner": {
+    "name": "Sally"
+  },
+  "likes": [
+    "bones",
+    "balls",
+    "dog biscuits"
+  ]
+}

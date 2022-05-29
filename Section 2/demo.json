@@ -1,0 +1,1 @@
+{ "Version": "2012-10-17", "Statement": [  { "Sid": "AllowPushPull", "Effect": "Allow", "Principal": {"AWS": [ ] }, "Action": [ "ecr:BatchGetImage", "ecr:BatchCheckLayerAvailability", "ecr:CompleteLayerUpload", "ecr:GetDownloadUrlForLayer", "ecr:InitiateLayerUpload", "ecr:PutImage", "ecr:UploadLayerPart"]} ]}
